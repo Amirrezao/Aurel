@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amirrezao.github.io/aurel/sitemap.xml
